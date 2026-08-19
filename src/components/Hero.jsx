@@ -79,7 +79,7 @@ function Hero({ onNavigate }) {
       <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 w-full">
         <div className="max-w-4xl mx-auto text-center">
           {/* Announcement pill */}
-          <motion.div
+          {/* <motion.div
             variants={fadeUp}
             initial="hidden"
             animate="visible"
@@ -91,7 +91,7 @@ function Hero({ onNavigate }) {
               <span className="relative inline-flex rounded-full h-2 w-2 bg-red-500" />
             </span>
             SIH 2026 — Our First Hackathon
-          </motion.div>
+          </motion.div> */}
 
           {/* Headline */}
           <motion.h1
