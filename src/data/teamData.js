@@ -26,7 +26,7 @@ const teamData = [
     socials: {
       portfolio: 'https://aaravsharma.dev',
       linkedin: 'https://linkedin.com/in/aaravsharma',
-      github: 'https://github.com/aaravsharma',
+      github: 'https://github.com/anujgupta2808',
       whatsapp: 'https://wa.me/919028076580',
       instagram: 'https://instagram.com/aaravsharma',
     },
@@ -42,7 +42,7 @@ const teamData = [
     socials: {
       portfolio: 'https://ishitapatel.dev',
       linkedin: 'https://linkedin.com/in/ishitapatel',
-      github: 'https://github.com/ishitapatel',
+      github: 'https://github.com/yogesh1636',
       whatsapp: 'https://wa.me/919028076580',
       instagram: 'https://instagram.com/ishitapatel',
     },
@@ -58,7 +58,7 @@ const teamData = [
     socials: {
       portfolio: 'https://rohandeshmukh.dev',
       linkedin: 'https://linkedin.com/in/rohandeshmukh',
-      github: 'https://github.com/rohandeshmukh',
+      github: 'https://github.com/anjalivinodsharma19-ship-it',
       whatsapp: 'https://wa.me/919028076580',
       instagram: 'https://instagram.com/rohandeshmukh',
     },
@@ -90,9 +90,9 @@ const teamData = [
     socials: {
       portfolio: 'https://kabirmehta.dev',
       linkedin: 'https://linkedin.com/in/kabirmehta',
-      github: 'https://github.com/kabirmehta',
-      whatsapp: 'https://wa.me/919028076580',
-      instagram: 'https://instagram.com/kabirmehta',
+      github: 'https://github.com/anishagupta8108-gif',
+      whatsapp: 'https://wa.me/918108206166',
+      instagram: '',
     },
   },
 ];
