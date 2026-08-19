@@ -79,7 +79,7 @@ function AboutUs() {
           </h2>
           <p className="mt-6 text-base md:text-lg text-slate-400 leading-relaxed">
             Phoenix began as a shared obsession — a group of 2nd-year
-            CS/IT undergraduates at Thakur College of Science and Commerce who
+            IT undergraduates at Thakur College of Science and Commerce who
             refused to wait for "senior year" to build production-grade
             software. We have no wins yet — SIH 2026 is our first hackathon —
             and we're approaching it with the hunger of a team with everything
@@ -156,7 +156,7 @@ function AboutUs() {
                   Located in Kandivali East, Mumbai — a premier institution known
                   for its rigorous science and commerce curriculum, vibrant tech
                   culture, and consistent academic results. Our team represents
-                  the college's undergraduate CS & IT programs, pushing
+                  the college's undergraduate IT programs, pushing
                   beyond the classroom to build solutions that matter.
                 </p>
 
@@ -166,7 +166,7 @@ function AboutUs() {
                     <div className="mt-1 text-xs text-slate-500">Batch Duration</div>
                   </div>
                   <div className="rounded-xl bg-slate-900/50 border border-slate-800/80 p-4">
-                    <div className="text-2xl font-bold text-red-400">CS • IT</div>
+                    <div className="text-2xl font-bold text-red-400">IT</div>
                     <div className="mt-1 text-xs text-slate-500">Domain Focus</div>
                   </div>
                   <div className="rounded-xl bg-slate-900/50 border border-slate-800/80 p-4">

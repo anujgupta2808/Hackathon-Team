@@ -94,11 +94,10 @@ function Navbar({ onNavigate, currentPage }) {
         initial={{ y: 0 }}
         animate={{ y: isVisible ? 0 : -100 }}
         transition={{ duration: 0.3, ease: 'easeInOut' }}
-        className={`fixed top-0 left-0 right-0 z-50 transition-all duration-300 ${
-          isScrolled
+        className={`fixed top-0 left-0 right-0 z-50 transition-all duration-300 ${isScrolled
             ? 'backdrop-blur-xl bg-slate-950/70 border-b border-slate-800/60 shadow-lg shadow-slate-950/30'
             : 'bg-transparent border-b border-transparent'
-        }`}
+          }`}
       >
         <nav className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className={`flex items-center justify-between transition-all duration-300 ${isScrolled ? 'h-14 md:h-16' : 'h-16 md:h-20'}`}>
@@ -110,9 +109,8 @@ function Navbar({ onNavigate, currentPage }) {
               <img
                 src={logoUrl}
                 alt="Phoenix Logo"
-                className={`w-8 h-8 md:w-9 md:h-9 object-contain mix-blend-screen transition-all duration-300 group-hover:scale-110 drop-shadow-[0_0_12px_rgba(99,102,241,0.4)] ${
-                  isScrolled ? 'w-7 h-7 md:w-8 md:h-8' : ''
-                }`}
+                className={`w-8 h-8 md:w-9 md:h-9 object-contain mix-blend-screen transition-all duration-300 group-hover:scale-110 drop-shadow-[0_0_12px_rgba(99,102,241,0.4)] ${isScrolled ? 'w-7 h-7 md:w-8 md:h-8' : ''
+                  }`}
               />
               <span className="text-slate-100 font-bold tracking-tight text-base sm:text-lg transition-all duration-300">
                 PHOENIX
@@ -257,7 +255,7 @@ function Navbar({ onNavigate, currentPage }) {
                   <p className="text-xs text-slate-500">
                     Thakur College of Science & Commerce
                   </p>
-                  <p className="text-xs text-slate-600 mt-0.5">2nd Year • CS / IT</p>
+                  <p className="text-xs text-slate-600 mt-0.5">2nd Year IT</p>
                 </div>
               </div>
             </motion.div>

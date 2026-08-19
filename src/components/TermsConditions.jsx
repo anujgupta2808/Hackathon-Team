@@ -14,7 +14,7 @@ const SECTIONS = [
   {
     title: '2. Team Description',
     body: [
-      'Phoenix is a hackathon team composed of 2nd-year CS/IT undergraduate students from Thakur College of Science & Commerce, Mumbai.',
+      'Phoenix is a hackathon team composed of 2nd-year IT undergraduate students from Thakur College of Science & Commerce, Mumbai.',
       'As of August 2026, we have not yet competed in any hackathons. Our first hackathon is Smart India Hackathon (SIH) 2026, and we are currently in the preparation phase.',
       'All information about our projects, wins, and achievements displayed on this website is accurate and reflects our current journey.',
     ],

@@ -91,7 +91,7 @@ function Footer({ onNavigate }) {
               </span>
             </button>
             <p className="mt-4 text-sm text-slate-400 leading-relaxed max-w-md">
-              A fresh hackathon team of 2nd-year CS/IT undergraduates from
+              A fresh hackathon team of 2nd-year IT undergraduates from
               Thakur College of Science and Commerce, Mumbai. We have no wins
               yet — SIH 2026 is our first hackathon, and we're ready to chart
               new territory.
@@ -190,7 +190,7 @@ function Footer({ onNavigate }) {
               </li>
               <li className="inline-flex items-center gap-2 text-sm text-slate-400">
                 <GraduationCap className="w-4 h-4 text-indigo-400/70" />
-                B.Sc. CS / B.Sc. IT • 2nd Year
+                B.Sc. IT • 2nd Year
               </li>
             </ul>
           </div>

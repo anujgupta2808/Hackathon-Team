@@ -114,7 +114,7 @@ function Hero({ onNavigate }) {
             transition={{ duration: 0.6, delay: 0.2 }}
             className="mt-6 text-base sm:text-lg md:text-xl text-slate-400 max-w-2xl mx-auto leading-relaxed"
           >
-            We are a team of 2nd-year CS/IT undergraduate students from{' '}
+            We are a team of 2nd-year IT undergraduate students from{' '}
             <span className="text-slate-200 font-medium">
               Thakur College of Science and Commerce (TCSC), Mumbai
             </span>
